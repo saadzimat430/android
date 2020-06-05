@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sellers.SettingsActivity"
+    >
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/settings_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/cardview_light_background"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:title="Settings"
+            app:titleTextColor="@android:color/black"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <View
+        android:id="@+id/view_id7"
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:background="@color/cardview_dark_background"
+        android:layout_below="@+id/app_bar"/>
+
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        android:padding="8dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/app_bar">
+
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Settings"
+            android:textSize="14sp"
+            android:fontFamily="@font/mo_me"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/l1"
+        android:text="Edit Info"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/colorBlack"
+        android:fontFamily="@font/mo_me"
+        android:layout_marginLeft="16dp"
+        android:textSize="18sp"
+        />
+    <TextView
+        android:id="@+id/textView71"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView11"
+        android:text="Verify phone number"
+        android:layout_marginLeft="12dp"
+        android:fontFamily="@font/mo_me"
+        android:textColor="@color/colorBlack"
+        android:textSize="18sp"
+        android:visibility="gone"
+        tools:visibility="gone"
+        />
+    <TextView
+        android:id="@+id/tvSettingsLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView71"
+        android:fontFamily="@font/mo_me"
+        android:layout_marginTop="8dp"
+        android:text="Logout"
+        android:textColor="@color/colorBlack"
+        android:layout_marginLeft="16dp"
+        android:textSize="18sp"
+        />
+
+    <View
+        android:id="@+id/view_id75"
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:background="@color/cardview_dark_background"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/tvSettingsLogout"/>
+
+    <LinearLayout
+        android:id="@+id/l2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:layout_marginLeft="8dp"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:layout_below="@+id/view_id75">
+
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvSettingsLogout"
+            android:text="Business Settings"
+            android:textSize="14sp"
+            android:fontFamily="@font/mo_me"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvSettingsECI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/l2"
+        android:layout_marginTop="15dp"
+        android:text="Edit company info "
+        android:textColor="@color/colorBlack"
+        android:layout_marginLeft="16dp"
+        android:fontFamily="@font/mo_me"
+        android:textSize="18sp"
+        android:visibility="gone"
+        />
+    <TextView
+        android:id="@+id/tvSettingsCreateB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvSettingsECI"
+        android:text="Create a new business account"
+        android:layout_marginLeft="16dp"
+        android:textColor="@color/colorBlack"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/mo_me"
+        android:textSize="18sp"
+        />
+
+
+    <View
+        android:id="@+id/view_id758"
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:background="@color/cardview_dark_background"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/tvSettingsCreateB"/>
+
+
+    <LinearLayout
+        android:id="@+id/l3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        android:padding="8dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_below="@+id/view_id758">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvSettingsVAP"
+            android:text="App"
+            android:textSize="14sp"
+            android:fontFamily="@font/mo_me"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/l3"
+        android:text="About"
+        android:textColor="@color/colorBlack"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/mo_me"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Part of Ecommerce Project "
+        android:fontFamily="@font/mo_me"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:textColor="@android:color/black"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

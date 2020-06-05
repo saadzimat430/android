@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/notification_orders_id"
+        app:actionLayout="@layout/action_bar_notification_icon3"
+        android:title="Orders"
+        app:showAsAction="always"/>
+<!--    <item-->
+<!--        android:id="@+id/notification_wishlist_id"-->
+<!--        app:actionLayout="@layout/action_bar_notification_icon4"-->
+<!--        android:title="Orders"-->
+<!--        app:showAsAction="always"/>-->
+
+    <item
+        android:id="@+id/notification_id3"
+        android:title="Cart"
+        app:actionLayout="@layout/action_bar_notification_icon2"
+        app:showAsAction="always"/>
+
+
+</menu>

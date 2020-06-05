@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Home.HomeActivity"
+    >
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@color/cardview_light_background"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+    <LinearLayout
+        android:id="@+id/li"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/profile1"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:src="@drawable/profile"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center"
+            app:civ_border_width="2dp"
+            app:civ_border_color="@android:color/black" />
+        <TextView
+            android:id="@+id/user_profile_name1"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:text="Loading..."
+            android:textColor="@android:color/black"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            />
+
+        <ImageView
+            android:id="@+id/settingsbtn"
+            android:layout_width="30dp"
+            android:layout_margin="5dp"
+            android:layout_height="30dp"
+            android:tint="@android:color/black"
+            app:srcCompat="@mipmap/settings"
+            />
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="30dp"
+            android:layout_margin="5dp"
+            android:layout_height="30dp"
+            android:tint="@android:color/black"
+            app:srcCompat="@drawable/nav_cart" />
+        <ImageView
+            android:id="@+id/orderIV"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:tint="@android:color/black"
+            app:srcCompat="@drawable/orders" />
+
+    </LinearLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:layout_below="@+id/toolbar"
+        >
+    </androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>

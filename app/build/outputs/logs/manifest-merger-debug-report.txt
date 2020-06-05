@@ -1,0 +1,891 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+MERGED from [com.github.rey5137:material:1.2.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\97c0325d1cafd387fc3ff99c7d0d88c3\jetified-material-1.2.5\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cd368e212b2ced9d25555b02a43870f1\navigation-ui-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a5bf4816fc37b2ce85fa5f833b19543f\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8672718d1924fd4c2b307cdcde07ad92\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.1.0-alpha05] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\81b65cca6ea0d2d02946fc6e4474fce3\preference-1.1.0-alpha05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fc1ab9b85efec7ae0ee932e22fe24dfc\lib-1.0.2\AndroidManifest.xml:2:1-19:12
+MERGED from [com.nex3z:notification-badge:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\24beebf9b0406b2d7fc14ff733285022\notification-badge-1.0.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cb59dbb98122462a14f81405a2e7e925\lottie-3.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1a9274023ca2ab16073b126d0ed530a9\jetified-materialtextfield-1.0.7\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ef935c1554200214aa462e90445784c3\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c19dcfe4337f5c319c6a43a8ff050b84\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\599ea976c5a08c76f3e8c11429866bfc\firebase-core-17.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\32b925318411da1cb63ea956b9990c07\jetified-firebase-ui-database-3.2.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:15:1-39:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\f6eedc05a1fff36506c159670ef391dc\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\679f7cde2f4a0bc9cec22025b4ee34bf\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c73c2b817da5be335010b563fababd34\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c5b9b80d5051e8db1f6e218c1b9ddb03\paperdb-2.6\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5a6fac2611072ecb0e9e92f10245d6cb\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\3bb1f3d037b42327865657548238329f\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2bc2d4318739cb3a5df473b288308367\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0628c885c01e8ad566000e02b9100977\navigation-fragment-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58df934a034b03f97d6cc499f3ff2c13\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5b10e25d3a812cef319f07795a3baa26\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\eea4e0b9a4ea786dd68c9961e547671e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7a0738250efbb6763307fc1d721058\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5516531d8c3405d280b1cadc4e61345f\firebase-analytics-17.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5bd97a48ac3fa78f82647572d09ac892\firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\b8f8a12e8e85260bf056cf2c9573d5b5\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4fd831a8e0a68ea2fc8bc70a97eb362c\firebase-installations-interop-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\986a8ca5c2ea02ea6a4d26f5b8a78ef5\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1595626d0871f68c504922bc8052d30c\play-services-measurement-sdk-17.4.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\459b3f9fc3e1692bff25053c2123408e\play-services-measurement-base-17.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\afe975bbfda3e0727db702833698aeca\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bc0ff65d1ed04dad72b08bdb79ebc53f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a89767fbf99497df7173ca56aa21654c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ea5facb58998c6af5eb4c22bf9361a77\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2668eaf8f22a474fc05f1df5f5bec344\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bf953c032ecd4cb1e8949f45852a3057\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5477bb50f0f89629d65f55410ed0fdc2\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\72b16d693df692b944a0b68f955ef3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2c5ad760a4509750215d1b575215fb7c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ff237f517dda1b23a9dca017ae31aff4\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cccc3adbb8271c5ffc8e4340ce4a32c7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fcfb6fefef4f8c10720a1d4ec337d15c\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\57ac7f2d818e1e8510e72a220cc422c7\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5cc9eac99289f6358f9fd022aa8d901c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\67903725dbd322a3d9e1347db6207266\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\9f0e37815f8fea8cb9b76405c3eeb15d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1ebe6f6643ad2d5e88525b06806b9b70\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae697eb0a6e65283b9ac17f618473631\navigation-runtime-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1b1f5d29b9f86e25d77f1a94351407e5\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1b1825e4c875e3bac05b82dbd38e275\navigation-common-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4259e2b98550c468d6c16cfd1caff3c7\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c7c6f78932f92c9172ad69e31a5e7afb\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\39e378cd9a585e5aed35a8e1cb5bf221\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0c824616969c6e6e8233aa845999f6c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\f39f478312e8ef6361d80584a553a8be\jetified-firebase-ui-common-3.2.2\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0fdbd881813d27873986758a4b274be7\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\14b5bb1123cf7ef42e06beefae3f7983\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\86ebcb7cc09048b1deaf8bfc16f05e68\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\08b7d9ee09cb0727d5dcfcba3cd9ec91\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bcb6811db6c8ae8900fb56edfc7f38a7\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ba73c0d9d9c5126a22763b964a41a76\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8762b37bcfd6f8fcc9740f8f66774d85\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\261473a5c7c2747776f2774ec51e3bd7\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1d9a15300e0994a9a17f116e47909aab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\320cda25fe585538e0006fbc5dd4df1a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\809776d6a0b78f1455525a54f25545cf\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\3d16622dde07c59eb4782d3484f4d013\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\91c3d27d708ecc1e489b4adff8fd0d93\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:1-105:12
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:7:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\32b925318411da1cb63ea956b9990c07\jetified-firebase-ui-database-3.2.2\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\32b925318411da1cb63ea956b9990c07\jetified-firebase-ui-database-3.2.2\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:10:22-63
+application
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:12:5-103:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a5bf4816fc37b2ce85fa5f833b19543f\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a5bf4816fc37b2ce85fa5f833b19543f\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fc1ab9b85efec7ae0ee932e22fe24dfc\lib-1.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fc1ab9b85efec7ae0ee932e22fe24dfc\lib-1.0.2\AndroidManifest.xml:11:5-17:19
+MERGED from [com.nex3z:notification-badge:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\24beebf9b0406b2d7fc14ff733285022\notification-badge-1.0.2\AndroidManifest.xml:11:5-20
+MERGED from [com.nex3z:notification-badge:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\24beebf9b0406b2d7fc14ff733285022\notification-badge-1.0.2\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cb59dbb98122462a14f81405a2e7e925\lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cb59dbb98122462a14f81405a2e7e925\lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c19dcfe4337f5c319c6a43a8ff050b84\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c19dcfe4337f5c319c6a43a8ff050b84\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\599ea976c5a08c76f3e8c11429866bfc\firebase-core-17.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\599ea976c5a08c76f3e8c11429866bfc\firebase-core-17.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c5b9b80d5051e8db1f6e218c1b9ddb03\paperdb-2.6\AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c5b9b80d5051e8db1f6e218c1b9ddb03\paperdb-2.6\AndroidManifest.xml:12:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5a6fac2611072ecb0e9e92f10245d6cb\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5a6fac2611072ecb0e9e92f10245d6cb\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2bc2d4318739cb3a5df473b288308367\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2bc2d4318739cb3a5df473b288308367\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7a0738250efbb6763307fc1d721058\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7a0738250efbb6763307fc1d721058\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5516531d8c3405d280b1cadc4e61345f\firebase-analytics-17.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5516531d8c3405d280b1cadc4e61345f\firebase-analytics-17.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\b8f8a12e8e85260bf056cf2c9573d5b5\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\b8f8a12e8e85260bf056cf2c9573d5b5\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\986a8ca5c2ea02ea6a4d26f5b8a78ef5\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\986a8ca5c2ea02ea6a4d26f5b8a78ef5\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1595626d0871f68c504922bc8052d30c\play-services-measurement-sdk-17.4.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1595626d0871f68c504922bc8052d30c\play-services-measurement-sdk-17.4.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\459b3f9fc3e1692bff25053c2123408e\play-services-measurement-base-17.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\459b3f9fc3e1692bff25053c2123408e\play-services-measurement-base-17.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\afe975bbfda3e0727db702833698aeca\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\afe975bbfda3e0727db702833698aeca\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bc0ff65d1ed04dad72b08bdb79ebc53f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bc0ff65d1ed04dad72b08bdb79ebc53f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a89767fbf99497df7173ca56aa21654c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a89767fbf99497df7173ca56aa21654c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ea5facb58998c6af5eb4c22bf9361a77\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ea5facb58998c6af5eb4c22bf9361a77\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4259e2b98550c468d6c16cfd1caff3c7\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4259e2b98550c468d6c16cfd1caff3c7\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\320cda25fe585538e0006fbc5dd4df1a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\320cda25fe585538e0006fbc5dd4df1a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4259e2b98550c468d6c16cfd1caff3c7\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.ecommerceproject.Home.NotificationActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:19:9-72
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:19:19-60
+activity#com.example.ecommerceproject.Home.HelpCenterActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:20:19-58
+activity#com.example.ecommerceproject.Home.UserSettingsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:21:19-60
+activity#com.example.ecommerceproject.Home.WishListActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:22:19-56
+activity#com.example.ecommerceproject.Home.WelcomeActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:23:19-55
+activity#com.example.ecommerceproject.Home.OrderPlacedActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:24:9-62
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:24:19-59
+activity#com.example.ecommerceproject.Home.CardActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:25:19-52
+activity#com.example.ecommerceproject.Home.CartActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:26:19-52
+activity#com.example.ecommerceproject.Home.BuyActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:27:9-54
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:27:19-51
+activity#com.example.ecommerceproject.Home.OrderActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:28:9-56
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:28:19-53
+activity#com.example.ecommerceproject.Home.CartBuyActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:29:19-55
+activity#com.example.ecommerceproject.Home.AddDeliveryDetails
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:30:19-58
+activity#com.example.ecommerceproject.Home.ProductActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:31:9-58
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:31:19-55
+activity#com.example.ecommerceproject.Home.ProductMainSubListActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:32:9-69
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.example.ecommerceproject.Home.ZhomeActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:33:19-53
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:35:9-37:55
+	android:value
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:36:13-58
+activity#com.example.ecommerceproject.Sellers.Company.UserLocation
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:39:9-41:68
+	android:label
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:40:13-57
+activity#com.example.ecommerceproject.Sellers.Company.AboutCompanyActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:42:9-74
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:42:19-71
+activity#com.example.ecommerceproject.Sellers.Company.MapsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:43:9-45:59
+	android:label
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:44:13-57
+activity#com.example.ecommerceproject.Sellers.Company.CompanyHomeActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:46:9-73
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:46:19-70
+activity#com.example.ecommerceproject.Sellers.ForgotPasswordActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:47:9-68
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:47:19-65
+activity#com.example.ecommerceproject.Sellers.Company.VAPActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:48:9-65
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:48:19-62
+activity#com.example.ecommerceproject.Sellers.Company.CompanyAddProductActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:49:9-79
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:49:19-76
+activity#com.example.ecommerceproject.Sellers.AboutActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:50:9-59
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:50:19-56
+activity#com.example.ecommerceproject.Sellers.Company.EditCompanyInfoActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:51:9-77
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:51:19-74
+activity#com.example.ecommerceproject.Sellers.Company.BusinessDetailsAddActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:52:9-80
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:52:19-77
+activity#com.example.ecommerceproject.Sellers.Company.BusinessRegisterActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:53:9-78
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:53:19-75
+activity#com.example.ecommerceproject.Sellers.EditUserInfoActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:54:9-66
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:54:19-63
+activity#com.example.ecommerceproject.Sellers.AddSellerDetailsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:55:9-70
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:55:19-67
+activity#com.example.ecommerceproject.Sellers.PhoneVerifyActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:56:9-65
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:56:19-62
+activity#com.example.ecommerceproject.Sellers.SettingsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:57:9-62
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:57:19-59
+activity#com.example.ecommerceproject.Sellers.EmailVerifyActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:58:9-65
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:58:19-62
+activity#com.example.ecommerceproject.Sellers.SplashActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:59:9-60
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:59:19-57
+activity#com.example.ecommerceproject.Home.ShopActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:60:9-55
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:60:19-52
+activity#com.example.ecommerceproject.Admin.AdminCheckNewProductsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:61:9-73
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:61:19-70
+activity#com.example.ecommerceproject.Admin.AdminHomeActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:62:9-61
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:62:19-58
+activity#com.example.ecommerceproject.Sellers.Main2Activity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:63:9-65:66
+	android:label
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:65:13-63
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:64:13-50
+activity#com.example.ecommerceproject.Sellers.SellerLoginActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:66:9-65
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:66:19-62
+activity#com.example.ecommerceproject.Sellers.SellerRegistrationActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:67:9-72
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:67:19-69
+activity#com.example.ecommerceproject.Home.ResetPasswordActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:68:9-64
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:68:19-61
+activity#com.example.ecommerceproject.Sellers.SellerMaintainProductsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:69:9-76
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:69:19-73
+activity#com.example.ecommerceproject.Home.SearchProductsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:70:9-65
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:70:19-62
+activity#com.example.ecommerceproject.Sellers.SellerUseProductsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:71:9-71
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:71:19-68
+activity#com.example.ecommerceproject.Admin.AdminNewOrdersActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:72:9-66
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:72:19-63
+activity#com.example.ecommerceproject.Sellers.SellerNewOrdersActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:73:9-69
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:73:19-66
+activity#com.example.ecommerceproject.Buyers.ConfirmFinalOrderActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:74:9-70
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:74:19-67
+activity#com.example.ecommerceproject.Buyers.CartActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:75:9-57
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:75:19-54
+activity#com.example.ecommerceproject.Buyers.ProductDetailsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:76:9-67
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:76:19-64
+activity#com.example.ecommerceproject.Home.EditInfoActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:77:9-59
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:77:19-56
+activity#com.example.ecommerceproject.Admin.MainMenu
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:78:9-51
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:78:19-49
+activity#com.example.ecommerceproject.Admin.AdminAddNewProductActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:79:9-69
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:79:19-67
+activity#com.example.ecommerceproject.Admin.AdminCategoryActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:80:9-64
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:80:19-62
+activity#com.example.ecommerceproject.Admin.AdminMaintainProductsActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:81:9-72
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:81:19-70
+activity#com.example.ecommerceproject.Home.HomeActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:83:9-86:59
+	android:label
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:85:13-56
+	android:theme
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:86:13-56
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:84:13-46
+activity#com.example.ecommerceproject.Sellers.SellerCategoryActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:87:9-68
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:87:19-65
+activity#com.example.ecommerceproject.Sellers.SellerAddNewProductActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:88:9-90:76
+	android:parentActivityName
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:90:13-73
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:89:13-64
+activity#com.example.ecommerceproject.Home.MainActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:91:9-97:20
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:91:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:92:13-96:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:93:17-69
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:93:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:95:17-77
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:95:27-74
+activity#com.example.ecommerceproject.Home.LoginActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:98:9-56
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:98:19-53
+activity#com.example.ecommerceproject.Home.RegisterActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:99:9-59
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:99:19-56
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:100:9-102:59
+	android:theme
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:102:13-56
+	android:name
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml:101:13-76
+uses-sdk
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+MERGED from [com.github.rey5137:material:1.2.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\97c0325d1cafd387fc3ff99c7d0d88c3\jetified-material-1.2.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rey5137:material:1.2.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\97c0325d1cafd387fc3ff99c7d0d88c3\jetified-material-1.2.5\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cd368e212b2ced9d25555b02a43870f1\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cd368e212b2ced9d25555b02a43870f1\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a5bf4816fc37b2ce85fa5f833b19543f\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a5bf4816fc37b2ce85fa5f833b19543f\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8672718d1924fd4c2b307cdcde07ad92\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8672718d1924fd4c2b307cdcde07ad92\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference:1.1.0-alpha05] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\81b65cca6ea0d2d02946fc6e4474fce3\preference-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0-alpha05] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\81b65cca6ea0d2d02946fc6e4474fce3\preference-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fc1ab9b85efec7ae0ee932e22fe24dfc\lib-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fc1ab9b85efec7ae0ee932e22fe24dfc\lib-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.nex3z:notification-badge:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\24beebf9b0406b2d7fc14ff733285022\notification-badge-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.nex3z:notification-badge:1.0.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\24beebf9b0406b2d7fc14ff733285022\notification-badge-1.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cb59dbb98122462a14f81405a2e7e925\lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cb59dbb98122462a14f81405a2e7e925\lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1a9274023ca2ab16073b126d0ed530a9\jetified-materialtextfield-1.0.7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1a9274023ca2ab16073b126d0ed530a9\jetified-materialtextfield-1.0.7\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ef935c1554200214aa462e90445784c3\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ef935c1554200214aa462e90445784c3\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c19dcfe4337f5c319c6a43a8ff050b84\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c19dcfe4337f5c319c6a43a8ff050b84\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\599ea976c5a08c76f3e8c11429866bfc\firebase-core-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\599ea976c5a08c76f3e8c11429866bfc\firebase-core-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\32b925318411da1cb63ea956b9990c07\jetified-firebase-ui-database-3.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\32b925318411da1cb63ea956b9990c07\jetified-firebase-ui-database-3.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\f6eedc05a1fff36506c159670ef391dc\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\f6eedc05a1fff36506c159670ef391dc\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\679f7cde2f4a0bc9cec22025b4ee34bf\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\679f7cde2f4a0bc9cec22025b4ee34bf\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c73c2b817da5be335010b563fababd34\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c73c2b817da5be335010b563fababd34\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c5b9b80d5051e8db1f6e218c1b9ddb03\paperdb-2.6\AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c5b9b80d5051e8db1f6e218c1b9ddb03\paperdb-2.6\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5a6fac2611072ecb0e9e92f10245d6cb\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5a6fac2611072ecb0e9e92f10245d6cb\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\3bb1f3d037b42327865657548238329f\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\3bb1f3d037b42327865657548238329f\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2bc2d4318739cb3a5df473b288308367\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2bc2d4318739cb3a5df473b288308367\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0628c885c01e8ad566000e02b9100977\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0628c885c01e8ad566000e02b9100977\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58df934a034b03f97d6cc499f3ff2c13\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58df934a034b03f97d6cc499f3ff2c13\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5b10e25d3a812cef319f07795a3baa26\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5b10e25d3a812cef319f07795a3baa26\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\eea4e0b9a4ea786dd68c9961e547671e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\eea4e0b9a4ea786dd68c9961e547671e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7a0738250efbb6763307fc1d721058\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7a0738250efbb6763307fc1d721058\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5516531d8c3405d280b1cadc4e61345f\firebase-analytics-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5516531d8c3405d280b1cadc4e61345f\firebase-analytics-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5bd97a48ac3fa78f82647572d09ac892\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5bd97a48ac3fa78f82647572d09ac892\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\b8f8a12e8e85260bf056cf2c9573d5b5\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\b8f8a12e8e85260bf056cf2c9573d5b5\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4fd831a8e0a68ea2fc8bc70a97eb362c\firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4fd831a8e0a68ea2fc8bc70a97eb362c\firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\986a8ca5c2ea02ea6a4d26f5b8a78ef5\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\986a8ca5c2ea02ea6a4d26f5b8a78ef5\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1595626d0871f68c504922bc8052d30c\play-services-measurement-sdk-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1595626d0871f68c504922bc8052d30c\play-services-measurement-sdk-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\459b3f9fc3e1692bff25053c2123408e\play-services-measurement-base-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\459b3f9fc3e1692bff25053c2123408e\play-services-measurement-base-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\afe975bbfda3e0727db702833698aeca\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\afe975bbfda3e0727db702833698aeca\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bc0ff65d1ed04dad72b08bdb79ebc53f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bc0ff65d1ed04dad72b08bdb79ebc53f\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a89767fbf99497df7173ca56aa21654c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a89767fbf99497df7173ca56aa21654c\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ea5facb58998c6af5eb4c22bf9361a77\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ea5facb58998c6af5eb4c22bf9361a77\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2668eaf8f22a474fc05f1df5f5bec344\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2668eaf8f22a474fc05f1df5f5bec344\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bf953c032ecd4cb1e8949f45852a3057\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bf953c032ecd4cb1e8949f45852a3057\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5477bb50f0f89629d65f55410ed0fdc2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5477bb50f0f89629d65f55410ed0fdc2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\72b16d693df692b944a0b68f955ef3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\72b16d693df692b944a0b68f955ef3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2c5ad760a4509750215d1b575215fb7c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\2c5ad760a4509750215d1b575215fb7c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ff237f517dda1b23a9dca017ae31aff4\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ff237f517dda1b23a9dca017ae31aff4\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cccc3adbb8271c5ffc8e4340ce4a32c7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\cccc3adbb8271c5ffc8e4340ce4a32c7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fcfb6fefef4f8c10720a1d4ec337d15c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fcfb6fefef4f8c10720a1d4ec337d15c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\57ac7f2d818e1e8510e72a220cc422c7\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\57ac7f2d818e1e8510e72a220cc422c7\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5cc9eac99289f6358f9fd022aa8d901c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\5cc9eac99289f6358f9fd022aa8d901c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\67903725dbd322a3d9e1347db6207266\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\67903725dbd322a3d9e1347db6207266\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\9f0e37815f8fea8cb9b76405c3eeb15d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\9f0e37815f8fea8cb9b76405c3eeb15d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1ebe6f6643ad2d5e88525b06806b9b70\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1ebe6f6643ad2d5e88525b06806b9b70\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae697eb0a6e65283b9ac17f618473631\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae697eb0a6e65283b9ac17f618473631\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1b1f5d29b9f86e25d77f1a94351407e5\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1b1f5d29b9f86e25d77f1a94351407e5\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1b1825e4c875e3bac05b82dbd38e275\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1b1825e4c875e3bac05b82dbd38e275\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4259e2b98550c468d6c16cfd1caff3c7\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\4259e2b98550c468d6c16cfd1caff3c7\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c7c6f78932f92c9172ad69e31a5e7afb\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\c7c6f78932f92c9172ad69e31a5e7afb\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\39e378cd9a585e5aed35a8e1cb5bf221\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\39e378cd9a585e5aed35a8e1cb5bf221\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0c824616969c6e6e8233aa845999f6c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0c824616969c6e6e8233aa845999f6c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\f39f478312e8ef6361d80584a553a8be\jetified-firebase-ui-common-3.2.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\f39f478312e8ef6361d80584a553a8be\jetified-firebase-ui-common-3.2.2\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0fdbd881813d27873986758a4b274be7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\0fdbd881813d27873986758a4b274be7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\14b5bb1123cf7ef42e06beefae3f7983\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\14b5bb1123cf7ef42e06beefae3f7983\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\86ebcb7cc09048b1deaf8bfc16f05e68\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\86ebcb7cc09048b1deaf8bfc16f05e68\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\08b7d9ee09cb0727d5dcfcba3cd9ec91\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\08b7d9ee09cb0727d5dcfcba3cd9ec91\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bcb6811db6c8ae8900fb56edfc7f38a7\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\bcb6811db6c8ae8900fb56edfc7f38a7\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ba73c0d9d9c5126a22763b964a41a76\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ba73c0d9d9c5126a22763b964a41a76\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8762b37bcfd6f8fcc9740f8f66774d85\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8762b37bcfd6f8fcc9740f8f66774d85\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\261473a5c7c2747776f2774ec51e3bd7\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\261473a5c7c2747776f2774ec51e3bd7\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1d9a15300e0994a9a17f116e47909aab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\1d9a15300e0994a9a17f116e47909aab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\320cda25fe585538e0006fbc5dd4df1a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\320cda25fe585538e0006fbc5dd4df1a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\809776d6a0b78f1455525a54f25545cf\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\809776d6a0b78f1455525a54f25545cf\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\3d16622dde07c59eb4782d3484f4d013\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\3d16622dde07c59eb4782d3484f4d013\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\91c3d27d708ecc1e489b4adff8fd0d93\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\91c3d27d708ecc1e489b4adff8fd0d93\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC Gamer\Desktop\android\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\94faac618dd50e430d7837a55b97a77e\firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\6294fd08be3d27fe317bdd3d478de1e8\firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\33acb6c6249750098d25c20569fa21fb\firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e38938b2a644988f2da415e097292da7\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\e1984fe702eac44be7e2a2419964a805\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\fef792af4a11e182eaf866fa08e96d1e\play-services-measurement-sdk-api-17.4.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\8ef0eae2f832f706475ebb4e0ac8e05c\play-services-measurement-api-17.4.0\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\58b2241d5b8c467af199e3779cc91b7b\firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\7d3a75575777d5214566c48348fac5d7\firebase-installations-16.2.1\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a78344ca7ded44a8cc44ecc65462926e\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\576eb148e4637a7c774dbac677f56943\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\a6e7de475fce94e73dd9ee5798739106\play-services-measurement-impl-17.4.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\96d324df819d92749e3a753eda75d435\play-services-measurement-17.4.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ea5facb58998c6af5eb4c22bf9361a77\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ea5facb58998c6af5eb4c22bf9361a77\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ea5facb58998c6af5eb4c22bf9361a77\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\PC Gamer\.gradle\caches\transforms-2\files-2.1\ae7061678d1c9ddba4227a3b40f455b0\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
